@@ -3,4 +3,5 @@
     <string name="title_home">Inicio</string>
     <string name="title_dashboard">Produtos</string>
     <string name="title_notifications">Notificações</string>
+    <string name="title_activity_produto_refrigerantes">MainActivity</string>
 </resources>

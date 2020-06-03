@@ -13,7 +13,7 @@
 
     <fragment
         android:id="@+id/navigation_dashboard"
-        android:name="com.mateussantosti.protocolodearromba.ui.Produtos.ProdutosFragment"
+        android:name="com.mateussantosti.protocolodearromba.ui.produtos.ProdutosFragment"
         android:label="@string/title_dashboard"
         tools:layout="@layout/fragment_produtos" />
 
